@@ -1,5 +1,5 @@
 # R code for the manuscript "Nonparametric quantile regression captures regional variability and scaling deviations in Atlantic surfclam length–weight relationships" 
-
+[![DOI](https://zenodo.org/badge/1072292486.svg)](https://doi.org/10.5281/zenodo.17315027)
 
 Manuscript authors: Gorka Bidegain, Marta Sestelo, Patricia L. Luque, Eric N. Powell, Arantza Irirarte, Ibon Uriarte, and Daphne Munroe.
 
